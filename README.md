@@ -4,10 +4,10 @@
 
 I'm currently studying Cyber Security as a part time student at Valencia College. I hope to use this page for documenting and sharing my journey in tech. My goals are to someday work and contribute something meaninfull to the field of IT. 
 
-📫Feel free to reach out to me at: jacobpierre459@gmail.com
+Feel free to reach out to me at: jacobpierre459@gmail.com
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
