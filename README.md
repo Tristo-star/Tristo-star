@@ -24,4 +24,6 @@ I'm currently studying Cyber Security as a part time student at Valencia College
 
 <img align="left" alt="Windows11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
 
+<img align="left" alt="Windows11" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
+
 <br />
